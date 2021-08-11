@@ -1,0 +1,7 @@
+1.- Proyecto Laravel 8 
+2.- artesanias.sql   Archivo de la BD
+
+Programas necesarios
+- Visual Studio Code
+- Xampp 
+- Google Chrome
